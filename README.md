@@ -1,0 +1,21 @@
+# CSS-Dasar
+# Hasil 1
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c1.png "Hasil Satu")
+# Hasil 2
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c1(2).png "Hasil Dua")
+# Hasil 3
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c2.png "Hasil Tiga")
+# Hasil 4
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c3.png "Hasil Empat")
+# Hasil 5
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c4.png "Hasil Lima")
+# Hasil 6
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c4(2).png "Hasil Enam")
+# Hasil 7
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c5.png "Hasil Tujuh")
+# Hasil 8
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c6.png "Hasil Delapan")
+# Hasil 9
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/c7.png "Hasil Sembilan")
+# Hasil 10
+#![AltText](https://github.com/najmi10/CSS-Dasar/blob/master/clast.png "Hasil Sepuluh")
